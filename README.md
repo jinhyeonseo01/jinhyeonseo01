@@ -22,7 +22,7 @@
         <img src="https://www.khronos.org/assets/images/api_logos/opengl.svg" alt="opengl" height="40"/> 
     </a> 
     <a href="https://opengl.org/" target="_blank" rel="noreferrer"> 
-        <img src="./docs/DirectX-12-Logo.png" alt="opengl" height="40"/> 
+        <img src="./docs/DirectX-12-Logo.png" alt="directx12" height="40"/> 
     </a> 
         <a href="https://opengl.org/" target="_blank" rel="noreferrer"> 
         <img src="./docs/unity.avif" alt="opengl" height="40"/> 
