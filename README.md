@@ -1,5 +1,5 @@
 <h1 align="center">Clrain</h1>
-<h3 align="center">C#/C++ and Unity/Unreal developer from korea. Mostly interested in client (and graphics) programming.</h3>
+<h3 align="center">C#/C++ developer from Korea with a focus on client-side and graphics programming in Unity and Unreal Engine.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
