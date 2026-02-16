@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/jinhyeonseo01">
-    <img src="https://img.shields.io/badge/GitHub-jinhyeonseo01-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://www.youtube.com/@clerin_dev">
-    <img src="https://img.shields.io/badge/YouTube-@clerin__dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel" />
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube channel" />
   </a>
 </p>
 
@@ -63,4 +63,6 @@
 
 ## Connect
 
+- GitHub: [jinhyeonseo01](https://github.com/jinhyeonseo01)
+- Blog: [techblog.clerindev.com](https://techblog.clerindev.com/)
 - YouTube: [@clerin_dev](https://www.youtube.com/@clerin_dev)
