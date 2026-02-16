@@ -15,10 +15,10 @@
 
 ## Focus Areas
 
-- Client-side gameplay and systems programming
-- Real-time rendering fundamentals and graphics optimization
-- Engine-side development with Unity and Unreal Engine
-- Graphics API practice with OpenGL and DirectX 12
+- Game client development focused on gameplay and systems programming
+- Technical art workflows that bridge art and engineering
+- Real-time rendering and graphics optimization (fundamentals)
+- Graphics API practice with OpenGL and DirectX 12 (fundamentals)
 
 ## Languages and Tools
 
