@@ -32,5 +32,5 @@
 <a href="https://www.youtube.com/@clerin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clerin_dev" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jinhyeonseo01&count_private=true&show_icons=true" alt="clerin" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeonseo01&layout=compact" alt="clerin" /></p>
+<p><img align="left" src="./profile/stats/stats.svg" alt="clerin" /></p>
+<p>&nbsp;<img align="center" src="./profile/stats/top-langs.svg" alt="clerin" /></p>
