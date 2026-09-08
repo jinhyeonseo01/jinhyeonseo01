@@ -20,10 +20,10 @@
 
 | Area | Technologies |
 | :--- | :--- |
-| Languages | **C#**, **C++** |
-| Game engines | Unity, Unreal Engine |
-| Graphics APIs | OpenGL, DirectX 12 |
-| Version control | Git |
+| Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20" alt="" /> **C#** &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20" height="20" alt="" /> **C++** |
+| Game engines | <img src="./docs/unity.png" width="20" height="20" alt="" /> Unity &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="20" height="20" alt="" /> Unreal Engine |
+| Graphics APIs | <img src="https://www.khronos.org/assets/images/api_logos/opengl.svg" width="40" height="20" alt="" /> OpenGL &nbsp;·&nbsp; <img src="./docs/DirectX-12-Logo.png" width="20" height="20" alt="" /> DirectX 12 |
+| Version control | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20" height="20" alt="" /> Git |
 
 ## GitHub Activity
 
