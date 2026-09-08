@@ -1,34 +1,47 @@
 name: Update README cards
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/grs.yml"
   schedule:
-    - cron: "0 3 * * *" # 하루 1회 (UTC 03:00 = KST 12:00)
+    - cron: "0 3 * * *" # Daily at 03:00 UTC (12:00 KST)
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme-cards
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: stats
-          options: username=jinhyeonseo01&count_private=true&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: top-langs
-          options: username=jinhyeonseo01&layout=compact
+          options: username=${{ github.repository_owner }}&layout=compact
           path: profile/stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit cards
         run: |
