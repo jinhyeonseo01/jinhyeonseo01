@@ -20,17 +20,31 @@
 - Bridging **art and engineering** through technical art workflows
 - Exploring **real-time rendering**, graphics APIs, and performance fundamentals
 
-## Languages & Tools
-
-| Area | Technologies |
-| :--- | :--- |
-| Languages | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| Game engines | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) |
-| Graphics APIs | ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![DirectX 12](https://img.shields.io/badge/DirectX_12-107C10?style=flat-square) |
-| Version control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-## GitHub Activity
-
-<p align="center">
-  <img src="./profile/stats/stats.svg" alt="Clerin's GitHub statistics" />
-</p>
+<table>
+  <thead>
+    <tr>
+      <th width="40%" align="left"><h2>Languages &amp; Tools</h2></th>
+      <th width="60%" align="left"><h2>GitHub Activity</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <strong>Languages</strong><br />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" /><br />
+        <strong>Game engines</strong><br />
+        <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&amp;logo=unity&amp;logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine" /><br />
+        <strong>Graphics APIs</strong><br />
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&amp;logo=opengl&amp;logoColor=white" alt="OpenGL" />
+        <img src="https://img.shields.io/badge/DirectX_12-107C10?style=flat-square" alt="DirectX 12" /><br />
+        <strong>Version control</strong><br />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+      </td>
+      <td valign="middle" align="center">
+        <img src="./profile/stats/stats.svg" width="100%" alt="Clerin's GitHub statistics" />
+      </td>
+    </tr>
+  </tbody>
+</table>
