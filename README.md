@@ -6,8 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://techblog.clerindev.com/">Technical Blog</a> &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@clerin_dev">YouTube</a>
+  <a href="https://techblog.clerindev.com/">
+    <img src="https://img.shields.io/badge/Technical_Blog-0A66C2?style=flat-square" alt="Technical Blog" />
+  </a>
+  <a href="https://www.youtube.com/@clerin_dev">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ## About Me
@@ -20,16 +24,13 @@
 
 | Area | Technologies |
 | :--- | :--- |
-| Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20" alt="" /> **C#** &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20" height="20" alt="" /> **C++** |
-| Game engines | <img src="./docs/unity.png" width="20" height="20" alt="" /> Unity &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="20" height="20" alt="" /> Unreal Engine |
-| Graphics APIs | <img src="https://www.khronos.org/assets/images/api_logos/opengl.svg" width="40" height="20" alt="" /> OpenGL &nbsp;·&nbsp; <img src="./docs/DirectX-12-Logo.png" width="20" height="20" alt="" /> DirectX 12 |
-| Version control | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20" height="20" alt="" /> Git |
+| Languages | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| Game engines | ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) |
+| Graphics APIs | ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![DirectX 12](https://img.shields.io/badge/DirectX_12-107C10?style=flat-square) |
+| Version control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ## GitHub Activity
 
 <p align="center">
   <img src="./profile/stats/stats.svg" alt="Clerin's GitHub statistics" />
-</p>
-<p align="center">
-  <img src="./profile/stats/top-langs.svg" alt="Clerin's repository language distribution" />
 </p>
