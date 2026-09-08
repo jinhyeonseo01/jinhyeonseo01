@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="248" viewBox="0 0 460 248" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Activity</title>
+  <desc id="desc">Stars earned: 92; Commits · past year: 87; Pull requests: 3; Issues: 5; Repos contributed · past year: 2; Rank: B-</desc>
+  <style>
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes drawRank { from { stroke-dashoffset: 263.894; } to { stroke-dashoffset: 175.590; } }
+    .fade { animation: fadeIn .35s ease-out both; }
+    .rank-progress { animation: drawRank 1s cubic-bezier(.2,.8,.2,1) .15s both; }
+    @media (prefers-reduced-motion: reduce) { .fade, .rank-progress { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="459" height="247" rx="13.5" fill="#161b22" stroke="#30363d"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="26" y="37" font-size="19" font-weight="600" fill="#e6edf3">GitHub Activity</text>
+    <g class="fade" style="animation-delay:.12s">
+    <rect x="18" y="58" width="270" height="38" rx="8" fill="#2d2414"/>
+    <text x="30" y="83" font-size="14" font-weight="600" fill="#e3b341">Stars earned</text>
+    <text x="273" y="83" text-anchor="end" font-size="18" font-weight="700" fill="#e3b341">92</text>
+  </g><g class="fade" style="animation-delay:0.28s"><text x="26" y="122" font-size="14" fill="#9da7b3">Commits · past year</text><text x="273" y="122" text-anchor="end" font-size="16" font-weight="600" fill="#e6edf3">87</text></g><g class="fade" style="animation-delay:0.36s"><text x="26" y="153" font-size="14" fill="#9da7b3">Pull requests</text><text x="273" y="153" text-anchor="end" font-size="16" font-weight="600" fill="#e6edf3">3</text></g><g class="fade" style="animation-delay:0.44s"><text x="26" y="184" font-size="14" fill="#9da7b3">Issues</text><text x="273" y="184" text-anchor="end" font-size="16" font-weight="600" fill="#e6edf3">5</text></g><g class="fade" style="animation-delay:0.52s"><text x="26" y="215" font-size="14" fill="#9da7b3">Repos contributed · past year</text><text x="273" y="215" text-anchor="end" font-size="16" font-weight="600" fill="#e6edf3">2</text></g><g>
+    <circle cx="371" cy="139" r="42" fill="none" stroke="#30363d" stroke-width="7"/>
+    <circle class="rank-progress" cx="371" cy="139" r="42" fill="none" stroke="#58a6ff" stroke-width="7" stroke-linecap="round" stroke-dasharray="263.894" stroke-dashoffset="175.590" transform="rotate(-90 371 139)"/>
+    <g class="fade" style="animation-delay:.75s">
+      <text x="371" y="143" text-anchor="middle" font-size="22" font-weight="700" fill="#e6edf3">B-</text>
+      <text x="371" y="165" text-anchor="middle" font-size="10" font-weight="600" letter-spacing="1.4" fill="#9da7b3">RANK</text>
+    </g>
+  </g>
+  </g>
+</svg>
